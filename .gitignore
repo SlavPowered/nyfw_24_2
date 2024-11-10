@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/release
 
 /lib/firebase_options.dart
+/ios
+/linux
+/macos
+/web
+/windows
+/android
+/.vscode
+/test
