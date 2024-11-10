@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894342643464",
+    "project_id": "nyfw-24",
+    "storage_bucket": "nyfw-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894342643464:android:04cf276869ec07e7f8b6bd",
+        "android_client_info": {
+          "package_name": "com.example.nyfw_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMjmFn_CES6m1Ka21hbc69WfZLQcuHnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894342643464:android:66c110044be6c99af8b6bd",
+        "android_client_info": {
+          "package_name": "com.example.nyfw_24_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMjmFn_CES6m1Ka21hbc69WfZLQcuHnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
